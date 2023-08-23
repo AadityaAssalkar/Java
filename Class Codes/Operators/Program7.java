@@ -2,7 +2,7 @@
 // performs logical operation on binary number of that value and returns calculated value in original type
 // refer notes for more info
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 8;
 		int y = 10;

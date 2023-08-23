@@ -1,6 +1,6 @@
 // Unary Operator(code3)
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 8;
 		int y = 5;

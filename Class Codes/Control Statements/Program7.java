@@ -7,7 +7,7 @@
 // If not then print "Not divisible by both"
 
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 15;
 

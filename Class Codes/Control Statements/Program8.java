@@ -9,7 +9,7 @@
 // Input: 200;  Output: 300
 
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 200;
 

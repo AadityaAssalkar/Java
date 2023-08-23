@@ -1,4 +1,4 @@
-class Program{
+class Demo{
 	public static void main(String[] args){
 		float f1 = 7.5;  // 7.5f
 		float f2 = 7.5;  // 7.5f

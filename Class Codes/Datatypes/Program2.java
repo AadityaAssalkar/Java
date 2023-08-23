@@ -1,4 +1,4 @@
-class Program{
+class Demo{
 	public static void main(String[] args){
 		short var1 = 10;
 		short var2 = 20;

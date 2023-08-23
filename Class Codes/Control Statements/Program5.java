@@ -4,7 +4,7 @@
 // Input: 5
 // Output: Not divisible
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 5;
 

@@ -2,7 +2,7 @@
 
 // Practice code-1
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 10;
 		if (x > 5) // if 'if' does not have block braces {} then it will only execute one statement

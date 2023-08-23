@@ -1,4 +1,4 @@
-class Program{
+class Demo{
 	public static void main(String[] args){
 		byte var1 = 18;
 		byte var2 = 18;

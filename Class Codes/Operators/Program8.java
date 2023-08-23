@@ -2,7 +2,7 @@
 // A short hand for if-else statement
 // ? --> if, : --> else
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 10;
 		int y = 20;

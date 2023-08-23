@@ -5,7 +5,7 @@
 // Input1: x = 5, y = 5   ;   Input2: x = 5, y = 7
 // Output1: Both are equal;   Output2: 7 is greater
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 5;
 		int y = 7;

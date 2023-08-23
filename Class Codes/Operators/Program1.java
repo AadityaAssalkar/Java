@@ -1,7 +1,7 @@
 // Arithmatic Operators
 // which is nothing but simple mathematics
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 10;
 		int y = 20;

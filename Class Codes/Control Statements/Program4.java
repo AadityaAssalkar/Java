@@ -7,7 +7,7 @@
 // <98.00		--> low
 
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		float temp = 98.5f;
 

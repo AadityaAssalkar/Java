@@ -4,7 +4,7 @@
 // Input: 7; Output: 7 is odd
 // Input: 4; Output: 4 is even
 
-class Program{
+class Demo{
 	public static void main(String[] args){
 		int x = 7;
 

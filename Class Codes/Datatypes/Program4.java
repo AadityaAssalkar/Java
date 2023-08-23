@@ -1,4 +1,4 @@
-class Program{
+class Demo{
 	
 	int x = 10;  // instance variable
 
