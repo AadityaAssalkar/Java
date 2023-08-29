@@ -1,5 +1,14 @@
 class Demo{
 	public static void main(String[] args){
-		System.out.println("Hello Java");
+		int x = 10;
+		{
+			int x = 20;
+		System.out.println(x);
+		}
+		{
+		int x = 30;
+		System.out.println(x);
+		}
+		System.out.println(x);
 	}
 }
