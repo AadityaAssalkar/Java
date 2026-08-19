@@ -11,7 +11,7 @@ class MaxNum{
     int n = sc.nextInt();
     int max = Integer.MIN_VALUE;
 
-    for(int i = 0, i < n, i++){
+    for(int i = 0; i < n; i++){
       int num = sc.nextInt();
       if(num > max){
         max = num;
